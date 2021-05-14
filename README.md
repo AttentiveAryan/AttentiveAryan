@@ -14,6 +14,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Dev.to Blog Posts On GitHub](https://dev.to/attentivearyan/dynamic-dev-to-blog-posts-on-github-211p)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
