@@ -15,4 +15,4 @@ jobs:
                 feed_list: "https://dev.to/feed/attentivearyan"
                 enable_keepalive: true
                 committer_email: 'AttentiveAryan@gmail.com'
-                committer_name: 'Aryan Gupta'
+                committer_username: attentivearyan
